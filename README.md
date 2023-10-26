@@ -1,2 +1,2 @@
-# Data_Processing-Julia-Sj-holm
+# Data-Processing-Julia-Sjoholm
 Course on data processing
