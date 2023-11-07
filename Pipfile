@@ -16,6 +16,7 @@ html5lib = "*"
 beautifulsoup4 = "*"
 plotly = "*"
 nbformat = "*"
+kaleido = "*"
 
 [dev-packages]
 
