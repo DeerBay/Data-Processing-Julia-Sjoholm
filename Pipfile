@@ -16,7 +16,6 @@ html5lib = "*"
 beautifulsoup4 = "*"
 plotly = "*"
 nbformat = "*"
-python-dotenv = "*"
 
 [dev-packages]
 
