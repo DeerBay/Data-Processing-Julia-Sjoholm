@@ -17,6 +17,7 @@ beautifulsoup4 = "*"
 plotly = "*"
 nbformat = "*"
 kaleido = "*"
+jinja2 = "*"
 
 [dev-packages]
 
