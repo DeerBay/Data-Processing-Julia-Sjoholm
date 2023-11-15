@@ -18,6 +18,7 @@ plotly = "*"
 nbformat = "*"
 kaleido = "*"
 jinja2 = "*"
+dash = "*"
 
 [dev-packages]
 
