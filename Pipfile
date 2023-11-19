@@ -19,6 +19,7 @@ nbformat = "*"
 kaleido = "*"
 jinja2 = "*"
 dash = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
